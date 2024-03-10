@@ -1,0 +1,11 @@
+C:\Users\Maria\source\repos\OOPLR23\OOPLR23AddCourse\bin\Debug\netcoreapp2.1\OOPLR23AddCourse.deps.json
+C:\Users\Maria\source\repos\OOPLR23\OOPLR23AddCourse\bin\Debug\netcoreapp2.1\OOPLR23AddCourse.runtimeconfig.json
+C:\Users\Maria\source\repos\OOPLR23\OOPLR23AddCourse\bin\Debug\netcoreapp2.1\OOPLR23AddCourse.runtimeconfig.dev.json
+C:\Users\Maria\source\repos\OOPLR23\OOPLR23AddCourse\bin\Debug\netcoreapp2.1\OOPLR23AddCourse.dll
+C:\Users\Maria\source\repos\OOPLR23\OOPLR23AddCourse\bin\Debug\netcoreapp2.1\OOPLR23AddCourse.pdb
+C:\Users\Maria\source\repos\OOPLR23\OOPLR23AddCourse\obj\Debug\netcoreapp2.1\OOPLR23AddCourse.csprojAssemblyReference.cache
+C:\Users\Maria\source\repos\OOPLR23\OOPLR23AddCourse\obj\Debug\netcoreapp2.1\OOPLR23AddCourse.csproj.CoreCompileInputs.cache
+C:\Users\Maria\source\repos\OOPLR23\OOPLR23AddCourse\obj\Debug\netcoreapp2.1\OOPLR23AddCourse.AssemblyInfoInputs.cache
+C:\Users\Maria\source\repos\OOPLR23\OOPLR23AddCourse\obj\Debug\netcoreapp2.1\OOPLR23AddCourse.AssemblyInfo.cs
+C:\Users\Maria\source\repos\OOPLR23\OOPLR23AddCourse\obj\Debug\netcoreapp2.1\OOPLR23AddCourse.dll
+C:\Users\Maria\source\repos\OOPLR23\OOPLR23AddCourse\obj\Debug\netcoreapp2.1\OOPLR23AddCourse.pdb

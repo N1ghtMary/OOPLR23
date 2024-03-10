@@ -1,0 +1,46 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "04a4bbefc9a005c339f4243259bbbbcb836acca1"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "OOPLR23AddCourse/1.0.0": {
+        "dependencies": {
+          "Faker.Net": "2.0.163"
+        },
+        "runtime": {
+          "OOPLR23AddCourse.dll": {}
+        }
+      },
+      "Faker.Net/2.0.163": {
+        "runtime": {
+          "lib/netstandard2.0/Faker.Net.Standard.2.0.dll": {
+            "assemblyVersion": "2.0.163.0",
+            "fileVersion": "2.0.163.0"
+          }
+        },
+        "resources": {
+          "lib/netstandard2.0/de-DE/Faker.Net.Standard.2.0.resources.dll": {
+            "locale": "de-DE"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OOPLR23AddCourse/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Faker.Net/2.0.163": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nQZA+V19Jf6tSeFnuRWpoVZzSHRmtfOYAnX5RbkY6+HBHpLg55DYTnxUSXeFHpmsgQzmkjG7Ucomk7FisJnfhA==",
+      "path": "faker.net/2.0.163",
+      "hashPath": "faker.net.2.0.163.nupkg.sha512"
+    }
+  }
+}

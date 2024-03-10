@@ -1,0 +1,11 @@
+C:\Users\Maria\source\repos\OOPLR23\OOPLR23\bin\Debug\netcoreapp2.1\OOPLR23.deps.json
+C:\Users\Maria\source\repos\OOPLR23\OOPLR23\bin\Debug\netcoreapp2.1\OOPLR23.runtimeconfig.json
+C:\Users\Maria\source\repos\OOPLR23\OOPLR23\bin\Debug\netcoreapp2.1\OOPLR23.runtimeconfig.dev.json
+C:\Users\Maria\source\repos\OOPLR23\OOPLR23\bin\Debug\netcoreapp2.1\OOPLR23.dll
+C:\Users\Maria\source\repos\OOPLR23\OOPLR23\bin\Debug\netcoreapp2.1\OOPLR23.pdb
+C:\Users\Maria\source\repos\OOPLR23\OOPLR23\obj\Debug\netcoreapp2.1\OOPLR23.csprojAssemblyReference.cache
+C:\Users\Maria\source\repos\OOPLR23\OOPLR23\obj\Debug\netcoreapp2.1\OOPLR23.csproj.CoreCompileInputs.cache
+C:\Users\Maria\source\repos\OOPLR23\OOPLR23\obj\Debug\netcoreapp2.1\OOPLR23.AssemblyInfoInputs.cache
+C:\Users\Maria\source\repos\OOPLR23\OOPLR23\obj\Debug\netcoreapp2.1\OOPLR23.AssemblyInfo.cs
+C:\Users\Maria\source\repos\OOPLR23\OOPLR23\obj\Debug\netcoreapp2.1\OOPLR23.dll
+C:\Users\Maria\source\repos\OOPLR23\OOPLR23\obj\Debug\netcoreapp2.1\OOPLR23.pdb
